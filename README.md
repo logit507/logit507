@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**logit507/logit507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👷 Check out what I'm currently working on
 
-Here are some ideas to get you started:
+#### 🔨 My recent Pull Requests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### ⭐ Recent Stars
+
+- [topotam/PetitPotam](https://github.com/topotam/PetitPotam) -  (1 day ago)
+- [khoi/dotfiles](https://github.com/khoi/dotfiles) - 🎛 My shell, tmux, emacs setup  (2 years ago)
+- [khoi/sorting-visualization](https://github.com/khoi/sorting-visualization) - 🌈 Sorting Algorithms Visualization (2 years ago)
+- [khoi/fuzzy-swift](https://github.com/khoi/fuzzy-swift) - 🔍 simple and fast fuzzy string matching in Swift (2 years ago)
+
+#### 👯 Check out some of my recent followers
+
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
