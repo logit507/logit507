@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (1 day ago)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc. (4 days ago)
+- [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (2 days ago)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc. (5 days ago)
 - [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (1 week ago)
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️ (1 week ago)
 - [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook is a PLT hook framework for Android app. Most of ByteDance&#39;s Android apps use ByteHook as the PLT hook solution online. (1 week ago)
