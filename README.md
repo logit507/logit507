@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [HashLips/generative-art-opensource](https://github.com/HashLips/generative-art-opensource) - Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas. (today)
-- [countercept/chainsaw](https://github.com/countercept/chainsaw) -  Rapidly Search and Hunt through Windows Event Logs  (3 days ago)
+- [HashLips/generative-art-opensource](https://github.com/HashLips/generative-art-opensource) - Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas. (1 day ago)
+- [countercept/chainsaw](https://github.com/countercept/chainsaw) -  Rapidly Search and Hunt through Windows Event Logs  (4 days ago)
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings (1 week ago)
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (2 weeks ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (2 weeks ago)
