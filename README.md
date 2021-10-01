@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (6 days ago)
+- [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (today)
+- [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (1 week ago)
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais (1 week ago)
 - [hypercube-lab/hypercube](https://github.com/hypercube-lab/hypercube) - HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰 (1 week ago)
 - [xiecat/goblin](https://github.com/xiecat/goblin) - 一款适用于红蓝对抗中的仿真钓鱼系统 (1 week ago)
 - [HashLips/generative-art-opensource](https://github.com/HashLips/generative-art-opensource) - Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas. (2 weeks ago)
-- [countercept/chainsaw](https://github.com/countercept/chainsaw) -  Rapidly Search and Hunt through Windows Event Logs  (2 weeks ago)
-- [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings (3 weeks ago)
+- [countercept/chainsaw](https://github.com/countercept/chainsaw) -  Rapidly Search and Hunt through Windows Event Logs  (3 weeks ago)
+- [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings (4 weeks ago)
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (1 month ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 month ago)
-- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
