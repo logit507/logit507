@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ai/nanocolors](https://github.com/ai/nanocolors) - 4x times faster than chalk and use 5x less space in node_modules (today)
-- [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (3 days ago)
+- [ai/nanocolors](https://github.com/ai/nanocolors) - Use picocolors instead. It is 3 times smaller and 50% faster. (1 day ago)
+- [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (4 days ago)
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (1 week ago)
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais (1 week ago)
 - [hypercube-lab/hypercube](https://github.com/hypercube-lab/hypercube) - HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰 (2 weeks ago)
