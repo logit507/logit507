@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business (3 days ago)
-- [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars. (1 week ago)
+- [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business (4 days ago)
+- [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars. (2 weeks ago)
 - [ai/nanocolors](https://github.com/ai/nanocolors) - Use picocolors instead. It is 3 times smaller and 50% faster. (2 weeks ago)
 - [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (2 weeks ago)
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (3 weeks ago)
