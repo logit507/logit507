@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (5 days ago)
+- [facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former) - Code release for &#34;Masked-attention Mask Transformer for Universal Image Segmentation&#34; (today)
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (6 days ago)
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site. (1 week ago)
 - [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis (1 week ago)
 - [stevenlei/spacingjs](https://github.com/stevenlei/spacingjs) - A JavaScript utility for measuring the spacing between elements on webpage. (2 weeks ago)
@@ -16,7 +17,6 @@
 - [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android) (3 weeks ago)
 - [stong/how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free) - How to exploit a double free vulnerability in 2021. &#39;Use After Free for Dummies&#39; (1 month ago)
 - [4PrivacyEngine/4PrivacyEngine-Core](https://github.com/4PrivacyEngine/4PrivacyEngine-Core) - C&#43;&#43; implementation of the 4PrivacyEngine core (1 month ago)
-- [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
