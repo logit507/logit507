@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former) - Code release for &#34;Masked-attention Mask Transformer for Universal Image Segmentation&#34; (today)
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (6 days ago)
+- [facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former) - Code release for &#34;Masked-attention Mask Transformer for Universal Image Segmentation&#34; (1 day ago)
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site. (1 week ago)
-- [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis (1 week ago)
+- [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis (2 weeks ago)
 - [stevenlei/spacingjs](https://github.com/stevenlei/spacingjs) - A JavaScript utility for measuring the spacing between elements on webpage. (2 weeks ago)
 - [cloudflare/production-saas](https://github.com/cloudflare/production-saas) - (WIP) Example SaaS application built in public on the Cloudflare stack! (2 weeks ago)
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts. (3 weeks ago)
