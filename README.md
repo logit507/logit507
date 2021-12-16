@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former) - Code release for &#34;Masked-attention Mask Transformer for Universal Image Segmentation&#34; (4 days ago)
+- [facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former) - Code release for &#34;Masked-attention Mask Transformer for Universal Image Segmentation&#34; (5 days ago)
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site. (2 weeks ago)
 - [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis (2 weeks ago)
