@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization (2 days ago)
-- [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter. (3 days ago)
-- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. (5 days ago)
+- [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization (3 days ago)
+- [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter. (4 days ago)
+- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. (6 days ago)
 - [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software (1 week ago)
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It&#39;s fast! (1 week ago)
 - [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗 (2 weeks ago)
