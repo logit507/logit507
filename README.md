@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁 (2 days ago)
-- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style. (3 days ago)
+- [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁 (3 days ago)
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style. (4 days ago)
 - [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization (1 week ago)
 - [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter. (1 week ago)
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. (1 week ago)
