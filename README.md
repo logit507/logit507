@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (today)
-- [admin360bug/bypass](https://github.com/admin360bug/bypass) -  (3 days ago)
+- [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (1 day ago)
+- [admin360bug/bypass](https://github.com/admin360bug/bypass) -  (4 days ago)
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂 (1 week ago)
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.  (1 week ago)
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (1 week ago)
