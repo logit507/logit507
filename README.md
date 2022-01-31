@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. (4 days ago)
-- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (5 days ago)
+- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. (5 days ago)
+- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (6 days ago)
 - [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (1 week ago)
 - [admin360bug/bypass](https://github.com/admin360bug/bypass) -  (1 week ago)
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂 (2 weeks ago)
