@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [yyx990803/vue-wordle](https://github.com/yyx990803/vue-wordle) - Wordle built with Vue, aka VVordle (6 days ago)
+- [yyx990803/vue-wordle](https://github.com/yyx990803/vue-wordle) - Wordle built with Vue, aka VVordle (1 week ago)
 - [sairson/Yasso](https://github.com/sairson/Yasso) - 强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行） (1 week ago)
 - [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)! (2 weeks ago)
-- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. (2 weeks ago)
+- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. (3 weeks ago)
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (3 weeks ago)
 - [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (3 weeks ago)
 - [admin360bug/bypass](https://github.com/admin360bug/bypass) -  (3 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [formidablae](https://github.com/formidablae)
 - [notmariekondo](https://github.com/notmariekondo)
 - [sarutobi12](https://github.com/sarutobi12)
 - [changtraixuqang97](https://github.com/changtraixuqang97)
 - [daphnetd](https://github.com/daphnetd)
-- [duytruongpham](https://github.com/duytruongpham)
 
 #### 💬 Feedback
 
