@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox (1 day ago)
-- [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. (3 days ago)
+- [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe) (today)
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox (2 days ago)
+- [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. (4 days ago)
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. (2 weeks ago)
 - [emilepetrone/financial_advice](https://github.com/emilepetrone/financial_advice) - What financial info would I have wanted to know when I was 22 and jumping into tech? (2 weeks ago)
 - [yyx990803/vue-wordle](https://github.com/yyx990803/vue-wordle) - Wordle built with Vue, aka VVordle (1 month ago)
@@ -16,7 +17,6 @@
 - [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)! (1 month ago)
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. (1 month ago)
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (1 month ago)
-- [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
