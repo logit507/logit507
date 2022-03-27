@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (1 day ago)
-- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (2 days ago)
-- [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project (3 days ago)
+- [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (2 days ago)
+- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (3 days ago)
+- [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project (4 days ago)
 - [AlexTrushkovsky/NoWarDDoS](https://github.com/AlexTrushkovsky/NoWarDDoS) -  (1 week ago)
 - [Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification) -  (1 week ago)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code (1 week ago)
