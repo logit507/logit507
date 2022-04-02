@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) - Pre-crisis Risk Management for Personal Finance (today)
+- [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) - Pre-crisis Risk Management for Personal Finance (1 day ago)
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (1 week ago)
 - [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (1 week ago)
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project (1 week ago)
@@ -15,7 +15,7 @@
 - [Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification) -  (2 weeks ago)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code (2 weeks ago)
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager (2 weeks ago)
-- [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe) (2 weeks ago)
+- [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe) (3 weeks ago)
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
