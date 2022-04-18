@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (2 days ago)
+- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (3 days ago)
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource (1 week ago)
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) - Pre-crisis Risk Management for Personal Finance (2 weeks ago)
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (3 weeks ago)
