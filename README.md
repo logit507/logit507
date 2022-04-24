@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game (1 day ago)
+- [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game (2 days ago)
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (1 week ago)
-- [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource (1 week ago)
+- [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource (2 weeks ago)
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) - Pre-crisis Risk Management for Personal Finance (3 weeks ago)
-- [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (4 weeks ago)
+- [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (1 month ago)
 - [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (1 month ago)
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project (1 month ago)
 - [AlexTrushkovsky/NoWarDDoS](https://github.com/AlexTrushkovsky/NoWarDDoS) -  (1 month ago)
