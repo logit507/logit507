@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) - Paper Writing Tips (3 days ago)
-- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations (4 days ago)
+- [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) - Paper Writing Tips (4 days ago)
+- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations (5 days ago)
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game (1 week ago)
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (2 weeks ago)
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource (3 weeks ago)
