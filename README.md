@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [biggerduck/RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记 (4 days ago)
-- [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - A guide for your daily &#34;professional&#34; interactions (not really) (5 days ago)
-- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - The most trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React! (6 days ago)
+- [biggerduck/RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记 (5 days ago)
+- [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - A guide for your daily &#34;professional&#34; interactions (not really) (6 days ago)
+- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - The most trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React! (1 week ago)
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game. (1 week ago)
 - [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English (1 week ago)
 - [firefart/stunner](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. (1 week ago)
