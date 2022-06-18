@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (1 day ago)
+- [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (2 days ago)
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website! (1 week ago)
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit (1 week ago)
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐ (1 week ago)
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐ (2 weeks ago)
 - [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) archiso configuration (3 weeks ago)
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework. (3 weeks ago)
 - [biggerduck/RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记 (1 month ago)
