@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) - BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird&#39;s-Eye View Representation (1 day ago)
+- [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full &#39;Follina&#39; Office RCE vulnerability for testing purposes (today)
+- [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) - BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird&#39;s-Eye View Representation (2 days ago)
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (1 week ago)
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website! (2 weeks ago)
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit (2 weeks ago)
@@ -16,7 +17,6 @@
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework. (1 month ago)
 - [biggerduck/RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记 (1 month ago)
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - A guide for your daily &#34;professional&#34; interactions (not really) (1 month ago)
-- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - The most trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React! (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
