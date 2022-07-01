@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full &#39;Follina&#39; Office RCE vulnerability for testing purposes (3 days ago)
-- [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) - BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird&#39;s-Eye View Representation (5 days ago)
+- [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full &#39;Follina&#39; Office RCE vulnerability for testing purposes (4 days ago)
+- [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) - BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird&#39;s-Eye View Representation (6 days ago)
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (2 weeks ago)
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website! (3 weeks ago)
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit (3 weeks ago)
