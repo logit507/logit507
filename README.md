@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (today)
-- [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (4 days ago)
+- [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马，一种新型内存马技术 (today)
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (1 day ago)
+- [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (5 days ago)
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications. (1 week ago)
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (1 week ago)
 - [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full &#39;Follina&#39; Office RCE vulnerability for testing purposes (2 weeks ago)
@@ -16,7 +17,6 @@
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (3 weeks ago)
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website! (1 month ago)
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit (1 month ago)
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐ (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
