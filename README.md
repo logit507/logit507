@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) (today)
-- [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马，一种新型内存马技术 (6 days ago)
+- [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) (1 day ago)
+- [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马，一种新型内存马技术 (1 week ago)
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (1 week ago)
 - [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (1 week ago)
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications. (2 weeks ago)
