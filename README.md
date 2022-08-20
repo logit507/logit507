@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (today)
-- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (3 days ago)
-- [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions (6 days ago)
-- [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200&#43; detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. (1 week ago)
+- [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (1 day ago)
+- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (4 days ago)
+- [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions (1 week ago)
+- [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200&#43; detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. (2 weeks ago)
 - [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (2 weeks ago)
 - [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities. (2 weeks ago)
 - [teamssix/cf](https://github.com/teamssix/cf) - Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 (3 weeks ago)
