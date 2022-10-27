@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (5 days ago)
+- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (6 days ago)
 - [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch (1 week ago)
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper &#34;Human Motion Diffusion Model&#34; (1 week ago)
-- [optiv/Freeze](https://github.com/optiv/Freeze) - Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods (1 week ago)
+- [optiv/Freeze](https://github.com/optiv/Freeze) - Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods (2 weeks ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (2 weeks ago)
 - [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy (2 weeks ago)
 - [divamgupta/stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow) - Stable Diffusion in TensorFlow / Keras (2 weeks ago)
