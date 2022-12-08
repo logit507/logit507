@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale (6 days ago)
+- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale (1 week ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (1 week ago)
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework (2 weeks ago)
 - [alibaba/higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway (2 weeks ago)
