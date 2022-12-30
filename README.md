@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [nopecha-ai/nopecha-python](https://github.com/nopecha-ai/nopecha-python) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Python. (2 days ago)
+- [nopecha-ai/nopecha-python](https://github.com/nopecha-ai/nopecha-python) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Python. (3 days ago)
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (1 week ago)
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT (1 week ago)
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. (1 week ago)
