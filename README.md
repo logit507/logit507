@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward) - Implementation of Hinton&#39;s forward-forward (FF) algorithm - an alternative to back-propagation  (3 days ago)
+- [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward) - Implementation of Hinton&#39;s forward-forward (FF) algorithm - an alternative to back-propagation  (4 days ago)
 - [nopecha-ai/nopecha-python](https://github.com/nopecha-ai/nopecha-python) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Python. (1 week ago)
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (2 weeks ago)
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT (2 weeks ago)
