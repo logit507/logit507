@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind. (1 day ago)
+- [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind. (2 days ago)
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) -  (1 week ago)
 - [krishnaik06/6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) -  (1 week ago)
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project. (2 weeks ago)
