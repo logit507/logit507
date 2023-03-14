@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。 (5 days ago)
+- [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。 (6 days ago)
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.  (1 week ago)
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models (1 week ago)
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose (1 week ago)
