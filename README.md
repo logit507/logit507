@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (today)
-- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (3 days ago)
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (1 day ago)
+- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (4 days ago)
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 &amp; LangChain Chatbot for large PDF docs (1 week ago)
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API. (1 week ago)
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware (1 week ago)
