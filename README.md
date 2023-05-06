@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (today)
-- [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models. (4 days ago)
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (1 day ago)
+- [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models. (5 days ago)
 - [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (1 week ago)
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (1 week ago)
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (2 weeks ago)
