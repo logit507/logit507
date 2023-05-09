@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. (1 day ago)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (3 days ago)
+- [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. (2 days ago)
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (4 days ago)
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models. (1 week ago)
 - [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (1 week ago)
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (2 weeks ago)
