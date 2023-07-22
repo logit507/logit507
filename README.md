@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (4 days ago)
+- [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (5 days ago)
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) -  (1 week ago)
 - [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (1 week ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (1 week ago)
