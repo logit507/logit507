@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz) (today)
-- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of &#34;3D Gaussian Splatting for Real-Time Radiance Field Rendering&#34; (6 days ago)
+- [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz) (1 day ago)
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of &#34;3D Gaussian Splatting for Real-Time Radiance Field Rendering&#34; (1 week ago)
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. (1 week ago)
 - [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network (1 week ago)
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (2 weeks ago)
