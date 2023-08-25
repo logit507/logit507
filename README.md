@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [ibaiw/2023Hvv](https://github.com/ibaiw/2023Hvv) - 2023 HVV情报速递~ (today)
-- [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation (1 day ago)
-- [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant  (2 days ago)
-- [apple/ml-fastvit](https://github.com/apple/ml-fastvit) - This repository contains the official implementation of the research paper, &#34;FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization&#34; ICCV 2023 (5 days ago)
-- [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - &#34;Effective Whole-body Pose Estimation with Two-stages Distillation&#34; (ICCV 2023, CV4Metaverse Workshop) (6 days ago)
+- [ibaiw/2023Hvv](https://github.com/ibaiw/2023Hvv) - 2023 HVV情报速递~ (1 day ago)
+- [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation (2 days ago)
+- [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant  (3 days ago)
+- [apple/ml-fastvit](https://github.com/apple/ml-fastvit) - This repository contains the official implementation of the research paper, &#34;FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization&#34; ICCV 2023 (6 days ago)
+- [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - &#34;Effective Whole-body Pose Estimation with Two-stages Distillation&#34; (ICCV 2023, CV4Metaverse Workshop) (1 week ago)
 - [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (1 week ago)
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior (1 week ago)
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (1 week ago)
