@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - Official Implementation of &#34;Graph of Thoughts: Solving Elaborate Problems with Large Language Models&#34; (4 days ago)
-- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (6 days ago)
+- [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - Official Implementation of &#34;Graph of Thoughts: Solving Elaborate Problems with Large Language Models&#34; (5 days ago)
+- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 week ago)
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C&#43;&#43; (1 week ago)
 - [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (1 week ago)
 - [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份 (2 weeks ago)
