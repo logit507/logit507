@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for &#34;Eureka: Human-Level Reward Design via Coding Large Language Models&#34; (2 days ago)
-- [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (5 days ago)
-- [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools. (6 days ago)
+- [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for &#34;Eureka: Human-Level Reward Design via Coding Large Language Models&#34; (3 days ago)
+- [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (6 days ago)
+- [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools. (1 week ago)
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model (1 week ago)
 - [Pondorasti/emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (1 week ago)
 - [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA) - Code and documents of LongLoRA and LongAlpaca (2 weeks ago)
