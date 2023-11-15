@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto. (today)
-- [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - &#34;Resistance is futile!&#34; (1 day ago)
+- [Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto. (1 day ago)
+- [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - &#34;Resistance is futile!&#34; (2 days ago)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 week ago)
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain (2 weeks ago)
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for &#34;Eureka: Human-Level Reward Design via Coding Large Language Models&#34; (3 weeks ago)
