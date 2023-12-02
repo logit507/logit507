@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (1 day ago)
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage (today)
+- [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (2 days ago)
 - [THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型 (1 week ago)
 - [Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto. (2 weeks ago)
 - [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - &#34;Resistance is futile!&#34; (2 weeks ago)
@@ -16,7 +17,6 @@
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for &#34;Eureka: Human-Level Reward Design via Coding Large Language Models&#34; (1 month ago)
 - [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course (1 month ago)
 - [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools. (1 month ago)
-- [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
