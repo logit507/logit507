@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage (1 week ago)
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage (2 weeks ago)
 - [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (2 weeks ago)
 - [THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型 (3 weeks ago)
 - [Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto. (1 month ago)
