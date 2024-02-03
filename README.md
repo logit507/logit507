@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants. (1 day ago)
+- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants. (2 days ago)
 - [Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China. (1 week ago)
 - [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille) -  (1 week ago)
-- [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (1 week ago)
+- [linuxtips/MesDoKubernetes](https://github.com/linuxtips/MesDoKubernetes) -  (2 weeks ago)
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java (2 weeks ago)
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式 (2 weeks ago)
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (3 weeks ago)
