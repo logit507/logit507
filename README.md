@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android (2 days ago)
-- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (5 days ago)
-- [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (1 week ago)
+- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android (3 days ago)
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (6 days ago)
+- [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (2 weeks ago)
 - [cloudflare/foundations](https://github.com/cloudflare/foundations) - Cloudflare&#39;s Rust service foundations library. (2 weeks ago)
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (2 weeks ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (2 weeks ago)
