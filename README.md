@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore) -  (today)
-- [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes (3 days ago)
+- [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore) -  (1 day ago)
+- [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes (4 days ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (1 week ago)
 - [layerdiffusion/LayerDiffuse](https://github.com/layerdiffusion/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency (1 week ago)
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box (2 weeks ago)
