@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore) -  (1 day ago)
-- [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes (4 days ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (today)
+- [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore) -  (2 days ago)
+- [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes (5 days ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (1 week ago)
 - [layerdiffusion/LayerDiffuse](https://github.com/layerdiffusion/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency (1 week ago)
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box (2 weeks ago)
@@ -16,7 +17,6 @@
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google&#39;s Gemma models (2 weeks ago)
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android (1 month ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 month ago)
-- [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
