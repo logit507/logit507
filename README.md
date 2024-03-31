@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (2 days ago)
-- [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore) -  (4 days ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (3 days ago)
+- [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore) -  (5 days ago)
 - [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes (1 week ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (1 week ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable! (1 week ago)
 - [layerdiffusion/LayerDiffuse](https://github.com/layerdiffusion/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency (2 weeks ago)
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box (2 weeks ago)
 - [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets (2 weeks ago)
