@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text. (today)
-- [fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ) - Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance (2 days ago)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (6 days ago)
+- [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text. (1 day ago)
+- [fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ) - Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance (3 days ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 week ago)
 - [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore) - GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection (1 week ago)
 - [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes (1 week ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable! (2 weeks ago)
