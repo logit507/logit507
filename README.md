@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A file and photo management application and system. (1 day ago)
-- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs (2 days ago)
-- [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) -  (4 days ago)
-- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (5 days ago)
-- [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator &amp; answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It&#39;s all FREE to use.  (6 days ago)
+- [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A file and photo management application and system. (2 days ago)
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs (3 days ago)
+- [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) -  (5 days ago)
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (6 days ago)
+- [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator &amp; answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It&#39;s all FREE to use.  (1 week ago)
 - [zk-Call/zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - &#34;Zero-Knowledge&#34; Proof Implementation with HMAC Communication in C&#43;&#43; (1 week ago)
 - [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models (2 weeks ago)
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (3 weeks ago)
