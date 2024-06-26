@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [togethercomputer/MoA](https://github.com/togethercomputer/MoA) -  (2 days ago)
-- [TMElyralab/MusePose](https://github.com/TMElyralab/MusePose) - MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation (4 days ago)
+- [togethercomputer/MoA](https://github.com/togethercomputer/MoA) - Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models (3 days ago)
+- [TMElyralab/MusePose](https://github.com/TMElyralab/MusePose) - MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation (5 days ago)
 - [y1s1et/darkweb-now](https://github.com/y1s1et/darkweb-now) -  (1 week ago)
 - [THUDM/GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型 (2 weeks ago)
 - [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (2 weeks ago)
