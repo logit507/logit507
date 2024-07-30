@@ -7,13 +7,13 @@
 
 #### ⭐ Recent Stars
 
-- [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. (2 days ago)
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (3 days ago)
-- [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction (5 days ago)
+- [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. (3 days ago)
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (4 days ago)
+- [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction (6 days ago)
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team (1 week ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (1 week ago)
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM inference for mobile, desktop and server. (1 week ago)
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code. (1 week ago)
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code. (2 weeks ago)
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (2 weeks ago)
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model (2 weeks ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
