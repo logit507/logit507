@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA: Towards Open-Source Interactive Omni Multimodal LLM (3 days ago)
-- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (4 days ago)
-- [XLabs-AI/x-flux](https://github.com/XLabs-AI/x-flux) -  (5 days ago)
+- [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA: Towards Open-Source Interactive Omni Multimodal LLM (4 days ago)
+- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (5 days ago)
+- [XLabs-AI/x-flux](https://github.com/XLabs-AI/x-flux) -  (6 days ago)
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog. (1 week ago)
 - [andandroidor/ourtv](https://github.com/andandroidor/ourtv) - 稳定、蓝光、高清、电视直播 (1 week ago)
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (2 weeks ago)
