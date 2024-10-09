@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) -  (6 days ago)
-- [qhjqhj00/MemoRAG](https://github.com/qhjqhj00/MemoRAG) - Empowering RAG with a memory-based data interface for all-purpose applications! (1 week ago)
+- [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI&#39;s API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow. (today)
+- [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) -  (1 week ago)
+- [qhjqhj00/MemoRAG](https://github.com/qhjqhj00/MemoRAG) - Empowering RAG with a memory-based data interface for all-purpose applications! (2 weeks ago)
 - [udecode/dotai](https://github.com/udecode/dotai) -  (2 weeks ago)
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (2 weeks ago)
-- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (2 weeks ago)
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (3 weeks ago)
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database. (3 weeks ago)
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models (3 weeks ago)
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC &amp; RDP (4 weeks ago)
-- [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app: (4 weeks ago)
-- [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA: Towards Open-Source Interactive Omni Multimodal LLM (1 month ago)
+- [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app: (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
