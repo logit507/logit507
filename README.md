@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (today)
-- [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) - Making the community&#39;s best AI chat models available to everyone. (1 day ago)
-- [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI&#39;s API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow. (3 days ago)
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (1 day ago)
+- [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) - Making the community&#39;s best AI chat models available to everyone. (2 days ago)
+- [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI&#39;s API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow. (4 days ago)
 - [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) -  (1 week ago)
 - [qhjqhj00/MemoRAG](https://github.com/qhjqhj00/MemoRAG) - Empowering RAG with a memory-based data interface for all-purpose applications! (2 weeks ago)
 - [udecode/dotai](https://github.com/udecode/dotai) -  (2 weeks ago)
