@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [origin-space/originui](https://github.com/origin-space/originui) -  (today)
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34; (1 day ago)
-- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (6 days ago)
+- [origin-space/originui](https://github.com/origin-space/originui) -  (1 day ago)
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34; (2 days ago)
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (1 week ago)
 - [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) - Making the community&#39;s best AI chat models available to everyone. (1 week ago)
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI&#39;s API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow. (1 week ago)
 - [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) -  (2 weeks ago)
