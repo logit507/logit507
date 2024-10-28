@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [aryabasu17/AquaticDiscord](https://github.com/aryabasu17/AquaticDiscord) - An auto discord account and token creator. The generator creates unlocked Discord tokens, and has an optional option to email verify them (free of cost) using a private GMail API. All of the tokens are unlocked and can be used for Mass DMing and other purposes. The generator is very fast, generating tokens up to 1,000 / second ! (today)
-- [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper &#34;MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion&#34; (3 days ago)
-- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications. (4 days ago)
+- [aryabasu17/AquaticDiscord](https://github.com/aryabasu17/AquaticDiscord) - An auto discord account and token creator. The generator creates unlocked Discord tokens, and has an optional option to email verify them (free of cost) using a private GMail API. All of the tokens are unlocked and can be used for Mass DMing and other purposes. The generator is very fast, generating tokens up to 1,000 / second ! (1 day ago)
+- [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper &#34;MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion&#34; (4 days ago)
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications. (5 days ago)
 - [fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2) - Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation (1 week ago)
 - [origin-space/originui](https://github.com/origin-space/originui) -  (1 week ago)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34; (1 week ago)
