@@ -12,7 +12,7 @@
 - [fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2) - Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation (1 week ago)
 - [origin-space/originui](https://github.com/origin-space/originui) -  (2 weeks ago)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34; (2 weeks ago)
-- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (2 weeks ago)
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (3 weeks ago)
 - [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) - Making the community&#39;s best AI chat models available to everyone. (3 weeks ago)
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI&#39;s API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow. (3 weeks ago)
 - [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) -  (1 month ago)
