@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jelspace](https://github.com/jelspace)
 - [Azer198903](https://github.com/Azer198903)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [Saedzare](https://github.com/Saedzare)
 - [AI0228](https://github.com/AI0228)
-- [warmice71](https://github.com/warmice71)
 
 #### 💬 Feedback
 
