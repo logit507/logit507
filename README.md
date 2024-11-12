@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs &#43; Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown (3 days ago)
-- [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算_已达到0.00s (4 days ago)
+- [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs &#43; Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown (4 days ago)
+- [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算_已达到0.00s (5 days ago)
 - [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper &#34;MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion&#34; (2 weeks ago)
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications. (2 weeks ago)
 - [fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2) - Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation (3 weeks ago)
