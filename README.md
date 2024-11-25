@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (today)
-- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (1 day ago)
+- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (1 day ago)
+- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (2 days ago)
 - [THUDM/GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) - GLM-4-Voice | 端到端中英语音对话模型 (1 week ago)
 - [AgibotTech/agibot_x1_train](https://github.com/AgibotTech/agibot_x1_train) - The reinforcement learning training code for AgiBot X1. (1 week ago)
 - [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs &#43; Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown (2 weeks ago)
