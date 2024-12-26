@@ -7,13 +7,13 @@
 
 #### ⭐ Recent Stars
 
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀  (today)
-- [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (4 days ago)
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀  (1 day ago)
+- [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (5 days ago)
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team (1 week ago)
 - [kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) -  (2 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (3 weeks ago)
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN) (3 weeks ago)
-- [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you! (4 weeks ago)
+- [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you! (1 month ago)
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (1 month ago)
 - [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (1 month ago)
 - [THUDM/GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) - GLM-4-Voice | 端到端中英语音对话模型 (1 month ago)
