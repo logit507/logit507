@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀  (1 day ago)
-- [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (5 days ago)
-- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team (1 week ago)
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀  (2 days ago)
+- [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (6 days ago)
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team (2 weeks ago)
 - [kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) -  (2 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (3 weeks ago)
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN) (3 weeks ago)
