@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis (1 day ago)
-- [gabriel-pineda/git-wrapped-api](https://github.com/gabriel-pineda/git-wrapped-api) -  (5 days ago)
+- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis (2 days ago)
+- [gabriel-pineda/git-wrapped-api](https://github.com/gabriel-pineda/git-wrapped-api) -  (6 days ago)
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀  (1 week ago)
-- [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (1 week ago)
+- [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (2 weeks ago)
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team (3 weeks ago)
 - [kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) -  (3 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 month ago)
