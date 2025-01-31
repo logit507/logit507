@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (5 days ago)
+- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (6 days ago)
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it&#39;s Hatsune Miku (1 week ago)
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching (1 week ago)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. (1 week ago)
