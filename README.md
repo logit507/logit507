@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
+- [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (today)
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (1 week ago)
-- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it&#39;s Hatsune Miku (1 week ago)
+- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it&#39;s Hatsune Miku (2 weeks ago)
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching (2 weeks ago)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. (2 weeks ago)
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple&#39;s &#34;Find My&#34; network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! (3 weeks ago)
@@ -16,7 +17,6 @@
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor (3 weeks ago)
 - [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative (3 weeks ago)
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace &#39;hub&#39; with &#39;diagram&#39; in any GitHub url to instantly visualize the codebase as an interactive diagram (3 weeks ago)
-- [nesaorg/nesa](https://github.com/nesaorg/nesa) - Run AI models end-to-end encrypted. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
