@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (today)
-- [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (1 day ago)
+- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (1 day ago)
+- [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (2 days ago)
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (1 week ago)
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it&#39;s Hatsune Miku (2 weeks ago)
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching (2 weeks ago)
