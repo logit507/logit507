@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (1 day ago)
-- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator (3 days ago)
-- [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling (4 days ago)
+- [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (2 days ago)
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator (4 days ago)
+- [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling (5 days ago)
 - [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (1 week ago)
 - [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (1 week ago)
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (2 weeks ago)
