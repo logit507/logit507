@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (1 day ago)
+- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (2 days ago)
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation (1 week ago)
 - [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) -  (1 week ago)
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data (2 weeks ago)
