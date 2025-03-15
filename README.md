@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (3 days ago)
+- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (4 days ago)
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation (1 week ago)
-- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) -  (1 week ago)
+- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) -  (2 weeks ago)
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data (3 weeks ago)
 - [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models. (3 weeks ago)
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (1 month ago)
