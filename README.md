@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support. (today)
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (2 days ago)
+- [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support. (1 day ago)
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (3 days ago)
 - [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (1 week ago)
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation (2 weeks ago)
 - [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) -  (2 weeks ago)
