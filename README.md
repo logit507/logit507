@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [yzhao062/cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist) - A final sanity checklist to help your CS paper get accepted, not desk rejected. (4 days ago)
-- [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of &#34;FastVLM: Efficient Vision Encoding for Vision Language Models&#34; - CVPR 2025 (6 days ago)
+- [yzhao062/cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist) - A final sanity checklist to help your CS paper get accepted, not desk rejected. (5 days ago)
+- [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of &#34;FastVLM: Efficient Vision Encoding for Vision Language Models&#34; - CVPR 2025 (1 week ago)
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme (1 week ago)
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (2 weeks ago)
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (3 weeks ago)
