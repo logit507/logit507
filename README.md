@@ -8,6 +8,7 @@
 #### ⭐ Recent Stars
 
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 (1 week ago)
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech (1 week ago)
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (2 weeks ago)
 - [leigest519/ScreenCoder](https://github.com/leigest519/ScreenCoder) - ScreenCoder — Turn any UI screenshot into clean, editable HTML/CSS with full control. Fast, accurate, and easy to customize. (3 weeks ago)
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (3 weeks ago)
@@ -16,7 +17,6 @@
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库 (1 month ago)
 - [Jackywine/Bella](https://github.com/Jackywine/Bella) - Bella is best (1 month ago)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - MemOS (Preview) | Intelligence Begins with Memory (1 month ago)
-- [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
