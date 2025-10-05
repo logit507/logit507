@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (today)
-- [Danau5tin/multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system) - Reached #13 on Stanford&#39;s Terminal Bench leaderboard. Orchestrator, explorer &amp; coder agents working together with intelligent context sharing. (6 days ago)
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (1 day ago)
+- [Danau5tin/multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system) - Reached #13 on Stanford&#39;s Terminal Bench leaderboard. Orchestrator, explorer &amp; coder agents working together with intelligent context sharing. (1 week ago)
 - [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene) - 一个以 MoonTV v100 版本 / Helios 为后端的 Android/iOS 客户端，针对移动端体验优化 (1 week ago)
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) -  (1 week ago)
 - [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction. (1 week ago)
