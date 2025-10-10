@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input. (1 day ago)
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (5 days ago)
+- [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input. (2 days ago)
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (6 days ago)
 - [Danau5tin/multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system) - Reached #13 on Stanford&#39;s Terminal Bench leaderboard. Orchestrator, explorer &amp; coder agents working together with intelligent context sharing. (1 week ago)
 - [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene) - 一个以 MoonTV v100 版本 / Helios 为后端的 Android/iOS 客户端，针对移动端体验优化 (1 week ago)
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) -  (2 weeks ago)
