@@ -7,14 +7,14 @@
 
 #### ⭐ Recent Stars
 
-- [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) - On-device TTS model by Neuphonic (today)
-- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (1 day ago)
-- [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (3 days ago)
-- [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. (6 days ago)
+- [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) - On-device TTS model by Neuphonic (1 day ago)
+- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (2 days ago)
+- [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (4 days ago)
+- [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. (1 week ago)
 - [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input. (1 week ago)
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (1 week ago)
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (2 weeks ago)
 - [Danau5tin/multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system) - Reached #13 on Stanford&#39;s Terminal Bench leaderboard. Orchestrator, explorer &amp; coder agents working together with intelligent context sharing. (2 weeks ago)
-- [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene) - 一个以 MoonTV v100 版本 / Helios 为后端的 Android/iOS 客户端，针对移动端体验优化 (2 weeks ago)
+- [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene) - 一个以 MoonTV v100 版本 / Helios 为后端的 Android/iOS 客户端，针对移动端体验优化 (3 weeks ago)
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) -  (3 weeks ago)
 - [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction. (3 weeks ago)
 
