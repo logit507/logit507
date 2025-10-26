@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills. (today)
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) - How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  (1 day ago)
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (2 days ago)
+- [midudev/jscamp](https://github.com/midudev/jscamp) - Contenido y ejercicios del JSCamp InfoJobs (today)
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills. (1 day ago)
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) - How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  (2 days ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 days ago)
 - [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) - On-device TTS model by Neuphonic (1 week ago)
 - [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (1 week ago)
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (1 week ago)
 - [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. (2 weeks ago)
 - [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input. (2 weeks ago)
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (3 weeks ago)
-- [Danau5tin/multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system) - Reached #13 on Stanford&#39;s Terminal Bench leaderboard. Orchestrator, explorer &amp; coder agents working together with intelligent context sharing. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
