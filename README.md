@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) - Curated collection of useful to have programs on a multiboot USB drive (2 days ago)
+- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) - A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication. (today)
+- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) - Curated collection of useful to have programs on a multiboot USB drive (3 days ago)
 - [midudev/jscamp](https://github.com/midudev/jscamp) - Contenido y ejercicios del JSCamp InfoJobs (1 week ago)
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills. (1 week ago)
 - [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) - How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  (1 week ago)
@@ -16,7 +17,6 @@
 - [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (2 weeks ago)
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (3 weeks ago)
 - [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. (3 weeks ago)
-- [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
