@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) -  (2 days ago)
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (6 days ago)
+- [Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) -  (3 days ago)
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 week ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 week ago)
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server &amp; CLI – run locally without Python. (1 week ago)
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions. Simple, fast, and reliable. (1 week ago)
