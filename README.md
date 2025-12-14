@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (2 days ago)
-- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (3 days ago)
+- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (3 days ago)
+- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (4 days ago)
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) -  (1 week ago)
-- [XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco) - Xiaomi Miloco (2 weeks ago)
+- [XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco) - Xiaomi Miloco (3 weeks ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 month ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 month ago)
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server &amp; CLI – run locally without Python. (1 month ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
 - [motanelson](https://github.com/motanelson)
 - [ggzy12345](https://github.com/ggzy12345)
 - [Connor9994](https://github.com/Connor9994)
-- [scapelinked](https://github.com/scapelinked)
-- [nholuongut](https://github.com/nholuongut)
 
 #### 💬 Feedback
 
