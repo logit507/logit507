@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (3 days ago)
-- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (4 days ago)
+- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (4 days ago)
+- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (5 days ago)
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) -  (1 week ago)
 - [XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco) - Xiaomi Miloco (3 weeks ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 month ago)
