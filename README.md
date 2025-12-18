@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (today)
-- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (6 days ago)
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (1 day ago)
+- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (1 week ago)
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (1 week ago)
-- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) -  (1 week ago)
+- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) -  (2 weeks ago)
 - [XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco) - Xiaomi Miloco (3 weeks ago)
 - [Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) - 逃离鸭科夫联机mod（by Mr.sans &amp; InitLoader） (1 month ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 month ago)
