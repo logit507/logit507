@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (2 days ago)
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (3 days ago)
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (1 week ago)
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (1 week ago)
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) -  (2 weeks ago)
