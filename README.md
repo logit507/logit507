@@ -14,7 +14,7 @@
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code (2 weeks ago)
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C. (3 weeks ago)
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager (4 weeks ago)
-- [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models (4 weeks ago)
+- [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models (1 month ago)
 - [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. (1 month ago)
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (1 month ago)
 
