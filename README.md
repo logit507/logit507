@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs (1 day ago)
-- [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. (4 days ago)
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -  (6 days ago)
+- [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs (2 days ago)
+- [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. (5 days ago)
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -  (1 week ago)
 - [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) - A certain block game (1 week ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (1 week ago)
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig (3 weeks ago)
