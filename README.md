@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (today)
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (1 day ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 week ago)
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (1 week ago)
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate &amp; comprehensive text measurement &amp; layout (2 weeks ago)
