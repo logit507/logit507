@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [willchen96/mike](https://github.com/willchen96/mike) - OSS AI Legal Platform (1 day ago)
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (2 days ago)
+- [willchen96/mike](https://github.com/willchen96/mike) - OSS AI Legal Platform (2 days ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (3 days ago)
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude &#43; Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy&#39;s LLM Wiki pattern. /wiki /save /autoresearch (1 week ago)
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 &#43; 20 设计哲学 &#43; 5 维评审 &#43; MP4 导出 · Agent-agnostic (1 week ago)
 - [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [standardgalactic](https://github.com/standardgalactic)
 - [senkamaniskeny](https://github.com/senkamaniskeny)
 - [motanelson](https://github.com/motanelson)
 - [ggzy12345](https://github.com/ggzy12345)
-- [Connor9994](https://github.com/Connor9994)
 
 #### 💬 Feedback
 
