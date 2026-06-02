@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI (1 day ago)
-- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (3 days ago)
+- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI (2 days ago)
+- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (4 days ago)
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA (1 week ago)
 - [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori&#39;s Xint Code (1 week ago)
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. (1 week ago)
