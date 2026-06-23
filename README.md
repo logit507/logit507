@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [HuckleR2003](https://github.com/HuckleR2003)
 - [standardgalactic](https://github.com/standardgalactic)
 - [senkamaniskeny](https://github.com/senkamaniskeny)
 - [motanelson](https://github.com/motanelson)
 - [ggzy12345](https://github.com/ggzy12345)
+- [Connor9994](https://github.com/Connor9994)
 
 #### 💬 Feedback
 
