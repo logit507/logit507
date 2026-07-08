@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (today)
-- [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 &#43; Private Cloud Compute 云端)· macOS 27 / Apple Silicon (2 days ago)
-- [Forward-Future/loopy](https://github.com/Forward-Future/loopy) - A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. (3 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
+- [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 &#43; Private Cloud Compute 云端)· macOS 27 / Apple Silicon (3 days ago)
+- [Forward-Future/loopy](https://github.com/Forward-Future/loopy) - A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. (4 days ago)
 - [unicity-astrid/handbook](https://github.com/unicity-astrid/handbook) - How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process. (1 week ago)
 - [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels &amp; WeChat 21:9&#43;1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 &#43; 公众号封面对 (3 weeks ago)
 - [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS &amp; data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team. (1 month ago)
