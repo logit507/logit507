@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (3 days ago)
-- [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (5 days ago)
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (4 days ago)
+- [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (6 days ago)
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20&#43; patterns of AI slop from any piece of writing. (1 week ago)
 - [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) - OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 (1 week ago)
 - [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness (1 week ago)
