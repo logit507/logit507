@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence (2 days ago)
+- [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence (3 days ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (1 week ago)
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (1 week ago)
-- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20&#43; patterns of AI slop from any piece of writing. (1 week ago)
+- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20&#43; patterns of AI slop from any piece of writing. (2 weeks ago)
 - [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) - OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 (2 weeks ago)
 - [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness (2 weeks ago)
 - [unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce) - AOS Community Edition: the open agent operating system. (2 weeks ago)
