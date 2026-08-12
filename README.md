@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file (today)
-- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. (1 day ago)
-- [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence (5 days ago)
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file (1 day ago)
+- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. (2 days ago)
+- [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence (6 days ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (1 week ago)
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (1 week ago)
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20&#43; patterns of AI slop from any piece of writing. (2 weeks ago)
