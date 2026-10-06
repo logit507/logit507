@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [yi1108/printfilm](https://github.com/yi1108/printfilm) - PRINTFILM：AI 视频获客与 AI短剧创作平台 (1 day ago)
-- [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) - A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. (3 days ago)
+- [yi1108/printfilm](https://github.com/yi1108/printfilm) - PRINTFILM：AI 视频获客与 AI短剧创作平台 (2 days ago)
+- [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) - A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. (4 days ago)
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent (1 week ago)
 - [SonicloudTech/sonicloud_opensdk](https://github.com/SonicloudTech/sonicloud_opensdk) - 声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云 (1 week ago)
 - [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - One AI trade decision every Monad block. Jev on Kuru MON-USDC. (1 week ago)
