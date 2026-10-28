@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what&#39;s in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind&#39;s EmbeddingGemma 2. (5 days ago)
+- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust (today)
+- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what&#39;s in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind&#39;s EmbeddingGemma 2. (6 days ago)
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android (1 week ago)
 - [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 (1 week ago)
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (1 week ago)
@@ -16,7 +17,6 @@
 - [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) - WebGPU components for React, Vue, Svelte, Solid, JS &amp; Framer (2 weeks ago)
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (2 weeks ago)
 - [yi1108/printfilm](https://github.com/yi1108/printfilm) - PRINTFILM: AI short-video marketing and AI short-drama creation platform (3 weeks ago)
-- [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) - A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
