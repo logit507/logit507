@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 (today)
-- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (1 day ago)
-- [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. (3 days ago)
-- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework (4 days ago)
+- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 (1 day ago)
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (2 days ago)
+- [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. (4 days ago)
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework (5 days ago)
 - [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. (1 week ago)
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (1 week ago)
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Git-FED](https://github.com/Git-FED)
 - [kpopdev](https://github.com/kpopdev)
 - [SpringgeSmiling7](https://github.com/SpringgeSmiling7)
 - [stefantul](https://github.com/stefantul)
 - [standardgalactic](https://github.com/standardgalactic)
-- [senkamaniskeny](https://github.com/senkamaniskeny)
 
 #### 💬 Feedback
 
