@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player (2 days ago)
-- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 (6 days ago)
+- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6 (today)
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player (3 days ago)
+- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 (1 week ago)
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (1 week ago)
 - [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. (1 week ago)
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework (1 week ago)
@@ -16,7 +17,6 @@
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (2 weeks ago)
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models (3 weeks ago)
 - [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source vector art tool written from scratch in pure Rust (3 weeks ago)
-- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what&#39;s in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind&#39;s EmbeddingGemma 2. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
